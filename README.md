@@ -59,7 +59,7 @@ Check out our [Contributing Guide](CONTRIBUTING.md) for more details.
 
 - **🏠 Website**: [edpassare.com](https://www.edpassare.com)
 - **📧 Email**: support@edpassare.com
-- **🕺 Social Media**: [Twitter](https://twitter.com/edpassare) | [Instagram](https://instagram.com/edpassare)
+- **🕺 Social Media**: [Facebook](https://www.facebook.com/people/Edpass%C4%81re/100094650656941/?mibextid=ZbWKwL) | [Instagram](https://www.instagram.com/edpassare/?igsh=cmc0NGFwcWJ5dG9t) | [LinkedIn](https://ng.linkedin.com/company/edpassare-academy-and-tech-school)
 
 ---
 
