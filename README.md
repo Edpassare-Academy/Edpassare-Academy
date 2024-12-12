@@ -27,8 +27,8 @@ At **EdPassare**, we are on a mission to ignite curiosity and nurture the next g
 
 ## Getting Started 🚀
 
-1. **🔍 Explore our Resources**: Check out our [course materials](https://github.com/EdPassare/courses).
-2. **🤝 Join the Community**: Be part of our [Discord server](https://discord.com/invite/edpassare).
+1. **🔍 Explore our Resources**: Check out our [course materials](https://resources.edpassare.com/).
+2. **🤝 Join the Community**: Be part of our [Discord server](https://discord.com/invite/UqStqfjZ).
 3. **🚩 Contribute**: See something to improve? We’d love your contributions. Read our [Contributing Guide](CONTRIBUTING.md).
 
 ---
